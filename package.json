@@ -1,0 +1,22 @@
+{
+  "name": "studio",
+  "version": "1.0.0",
+  "description": "макет студии дизайна",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koman4git/5.-studioDesigne.git"
+  },
+  "author": "andrey e.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koman4git/5.-studioDesigne/issues"
+  },
+  "homepage": "https://github.com/koman4git/5.-studioDesigne#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
