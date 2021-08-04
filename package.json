@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/koman4git/5.-studioDesigne#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "browser-sync": "^2.27.5",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0",
+    "gulp-imagemin": "^7.1.0"
   }
 }
